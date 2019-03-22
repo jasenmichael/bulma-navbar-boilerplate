@@ -1,1 +1,1 @@
-# adambray89.github.io
+## bulma navbar boilerplate
